@@ -5,7 +5,7 @@ This is a 2D platformer game in which the goal is to reach the end of the level.
 
 The end of the level is reached after running a a certain distance along the x-axis.
 
-Avoid Enemies, the red cubes. 
+Avoid Enemies, the red cubes. As you will get game over if you collide with them.
 
 The yellow polygons, powerups, give you superspeed.
 
